@@ -1,4 +1,4 @@
-<img src="./Black Gradient Technology YouTube Banner.png" alt="Mike Kanyatsi Banner" style="max-width:100%; height:auto;" />
+<img src="./Black Gradient Technology YouTube Banner.png" alt="Mike Kanyatsi Banner" style="max-width:70%; height:auto;" />
 # 💫 About Me:
 🎓 Recent BTM graduate from uOttawa  <br>💡 Passionate about turning ideas into clean, useful digital experiences  <br>🧑🏽‍💻 Currently building cool stuff & leveling up as a developer  <br>🌍 Explorer at heart — I love learning from people and projects around the world  <br>😎 Low-key but driven. Always curious, always improving.
 
